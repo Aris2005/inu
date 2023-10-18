@@ -22,7 +22,7 @@
     "PRIMARY_800": "#08080A"
   },
    "background": {
-    "blur": 1.0,
+    "blur": 1,
     "url": "https://cdn.discordapp.com/attachments/1076190611922759702/1164130426911207474/11dd2b86f30df105178aa4dc73a1e07e.jpg",
     "alpha": 0.5
   }
