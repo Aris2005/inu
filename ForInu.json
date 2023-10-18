@@ -7,7 +7,6 @@
       "id": "158260864623968257"
     }
   ],
-  "spec": 2,
   "semanticColors": {
     "BACKGROUND_TERTIARY": ["#000000"],
     "BACKGROUND_ACCENT": ["#08080A"],
@@ -21,8 +20,9 @@
     "PRIMARY_700": "#08080A",
     "PRIMARY_800": "#08080A"
   },
+    "spec": 2,
    "background": {
-    "blur": 1,
+    "blur": 1.0,
     "url": "https://cdn.discordapp.com/attachments/1076190611922759702/1164130426911207474/11dd2b86f30df105178aa4dc73a1e07e.jpg",
     "alpha": 0.5
   }
