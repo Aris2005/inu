@@ -1,9 +1,9 @@
 {
-  "name": "System black theme",
-  "description": "Black theme in \"automatic\" dark theme",
+  "name": "Hello Kitty Theme",
+  "description": "For Inu",
   "authors": [
     {
-      "name": "Mylloon",
+      "name": "Aris",
       "id": "158260864623968257"
     }
   ],
@@ -22,7 +22,7 @@
     "PRIMARY_800": "#08080A"
   },
   "background":  {
-    "blur": "0",
+    "blur": "3",
     "url": "https://cdn.discordapp.com/attachments/1076190611922759702/1164130426911207474/11dd2b86f30df105178aa4dc73a1e07e.jpg?ex=654217f2&is=652fa2f2&hm=df71e7e790c1b9504d6c283fe390e090574fa11bb3c1f7a18e04067d40dd9894&",
     "alpha": "1"
   }
